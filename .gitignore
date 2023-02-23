@@ -90,4 +90,6 @@ fastlane/test_output
 iOSInjectionProject/
 
 
-CollectionViewiOS13.xcodeproj/project.xcworkspace/xcuserdata/andersonchagas.xcuserdatad/UserInterfaceState.xcuserstateCollectionViewiOS13.xcodeproj/project.xcworkspace/xcuserdata/andersonchagas.xcuserdatad/UserInterfaceState.xcuserstate
+CollectionViewiOS13.xcodeproj/project.xcworkspace/xcuserdata/andersonchagas.xcuserdatad/UserInterfaceState.xcuserstate
+
+.DS_Store
